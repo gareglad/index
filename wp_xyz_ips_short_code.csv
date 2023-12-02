@@ -1,0 +1,37 @@
+﻿id,title,content,short_code,status
+1,75687,"<?php
+
+echo '!';
+
+?>","[xyz-ips snippet=""75687""]",1
+2,54646,"<?php
+
+$url = 'https://huggingface.co/spaces/pxiaoer/papers';
+$curl = curl_init();
+
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+
+$result = curl_exec($curl);
+
+if ($result === false) {
+    echo 'Error: ' . curl_error($curl);
+} else {
+    // Process $result to extract desired information using DOM manipulation or regular expressions
+    // For example, using DOMDocument to extract specific elements
+    $doc = new DOMDocument();
+    @$doc->loadHTML($result); // Suppressing warnings, not the best practice
+    
+    // Find elements by tag, class, id, etc.
+    // Example: finding all <a> tags
+//var_dump($doc);
+    $links = $doc->getElementsByTagName('tr');
+    var_dump($links);
+    // Loop through the links and output their href attribute
+    foreach ($links as $link) {
+        echo $link . ""<br>"";
+    }
+}
+
+curl_close($curl);
+?>","[xyz-ips snippet=""54646""]",1

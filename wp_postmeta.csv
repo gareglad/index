@@ -1,0 +1,9 @@
+﻿meta_id,post_id,meta_key,meta_value
+1,2,_wp_page_template,default
+2,3,_wp_page_template,default
+3,4,_edit_last,1
+4,1,_wp_trash_meta_status,publish
+5,1,_wp_trash_meta_time,1701280964
+6,1,_wp_desired_post_slug,hello-world
+7,1,_wp_trash_meta_comments_status,"a:1:{i:1;s:1:""1"";}"
+8,9,_edit_lock,1701283077:1
