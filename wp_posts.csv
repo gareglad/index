@@ -1,0 +1,120 @@
+﻿ID,post_author,post_date,post_date_gmt,post_content,post_title,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count
+1,1,2023-11-29 18:02:38,2023-11-29 18:02:38,"<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->",Hello world!,"",trash,open,open,"",hello-world__trashed,"","",2023-11-29 18:02:44,2023-11-29 18:02:44,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=1,0,post,"",1
+2,1,2023-11-29 18:02:38,2023-11-29 18:02:38,"<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href=""https://wordpress-1175175-4112292.cloudwaysapps.com/wp-admin/"">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->",Sample Page,"",publish,closed,open,"",sample-page,"","",2023-11-29 18:02:38,2023-11-29 18:02:38,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?page_id=2,0,page,"",0
+3,1,2023-11-29 18:02:38,2023-11-29 18:02:38,"<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Our website address is: https://wordpress-1175175-4112292.cloudwaysapps.com.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->",Privacy Policy,"",draft,closed,open,"",privacy-policy,"","",2023-11-29 18:02:38,2023-11-29 18:02:38,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?page_id=3,0,page,"",0
+4,1,2023-11-29 00:00:00,2023-11-29 00:00:00,"<p>It seems like you’re running a default WordPress website. Here are a few useful links to get you started:</p>
+			<h3>Migration</h3>
+			<ul>
+				<li><a href=""https://support.cloudways.com/how-to-migrate-wordpress-to-cloudways/?utm_source=WordPress&amp;Staging&amp;Sites&amp;utm_medium=WP&amp;Staging&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to use WordPress Migrator Plugin?</a></li>
+				<li><a href=""https://support.cloudways.com/siteground-to-cloudways-wordpress-migration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">Migrate WordPress from Siteground to Cloudways</a></li>
+				<li><a href=""https://support.cloudways.com/godaddy-to-cloudways-wordpress-migration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">Migrate WordPress from GoDaddy to Cloudways</a></li>
+				</ul>
+				<h3>General</h3>
+				<ul>
+					<li><a href=""https://support.cloudways.com/how-do-i-take-my-website-live-from-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How do I take my website live from Cloudways?</a></li>
+					<li><a href=""https://support.cloudways.com/how-to-manage-wordpress-with-wp-cli/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to manage WordPress via WP-CLI on Cloudways?</a></li>
+					<li><a href=""https://support.cloudways.com/how-to-setup-a-wordpress-multisite-on-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to configure WordPress Multisite on Cloudways?</a></li>
+					<li><a href=""https://support.cloudways.com/mysql-database-access-options/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to access your databases on Cloudways?</a></li>
+					</ul>
+					<h3>Performance</h3>
+					<ul>
+						<li><a href=""https://support.cloudways.com/breeze-wordpress-cache-configuration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to install and configure Breeze WordPress cache plugin?</a></li>
+						<li><a href=""https://support.cloudways.com/wordpress-cloudways-cdn/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to integrate CloudwaysCDN with your WordPress website?</a></li>
+						<li><a href=""https://support.cloudways.com/how-to-configure-wp-rocket-plugin-wordpress/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to configure WP Rocket plugin for WordPress?</a></li>
+						</ul>
+						<h3>Security</h3>
+						<ul>
+							<li><a href=""https://support.cloudways.com/what-can-i-do-with-an-htaccess-file/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"" data-wplink-edit=""true"">What can I do with an .htaccess file?</a></li>
+							<li><a href=""https://www.cloudways.com/blog/add-free-ssl-certificate-to-wordpress-websites/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">Add free SSL certificate to WordPress websites</a></li>
+							<li><a href=""https://support.cloudways.com/how-to-set-up-sucuri-antivirus-website-monitoring/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to setup Sucuri on WordPress websites at Cloudways?</a></li>
+							</ul>
+							<h3>Email</h3>
+							<ul>
+								<li><a href=""https://support.cloudways.com/emailing-with-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">Which email add-on should I use?</a></li>
+								<li><a href=""https://support.cloudways.com/how-to-activate-rackspace-email-addon/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to activate Rackspace email addon?</a></li>
+								<li><a href=""https://support.cloudways.com/how-to-activate-elasticemail-addon/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noopener, noindex, nofollow noopener"">How to activate the Elastic email add-on?</a></li>
+								</ul>
+
+								<!-- wp:heading {""level"":4} -->
+								<h4>Our Partners</h4>
+								<!-- /wp:heading -->
+
+								<!-- wp:image {""id"":15,""linkDestination"":""custom""} -->
+								<figure class=""wp-block-image""><a href=""https://mainwp.com/?utm_source=cloudways-partner&amp;utm_campaign=cloudways"" target=""_blank"" rel=""noreferrer, noopener, noindex, nofollow noopener""><img src=""https://s3.amazonaws.com/cloudways-static-content/applications/wordpress/mainWP-Banner-1.jpg"" alt="""" class=""wp-image-15""/></a></figure>
+								<!-- /wp:image -->
+
+								<!-- wp:image {""id"":20,""linkDestination"":""custom""} -->
+								<figure class=""wp-block-image""><a href=""https://oceanwp.org/?utm_source=cloudways-partner&amp;utm_campaign=cloudways"" target=""_blank"" rel=""noreferrer, noopener, noindex, nofollow noopener""><img src=""https://s3.amazonaws.com/cloudways-static-content/applications/wordpress/OceanWP-Banner.jpg"" alt="""" class=""wp-image-20""/></a></figure>
+								<!-- /wp:image -->
+
+								<!-- wp:heading {""level"":4} -->
+								<h4>Join The Community Forum<br></h4>
+									<!-- /wp:heading -->
+
+									<!-- wp:image {""id"":23,""linkDestination"":""custom""} -->
+									<figure class=""wp-block-image""><a href=""https://community.cloudways.com/?utm_source=cloudways-wp&amp;utm_medium=cloudways&amp;utm_campaign=cloudways-wp"" target=""_blank"" rel=""noreferrer, noopener, noindex, nofollow noopener""><img src=""https://s3.amazonaws.com/cloudways-static-content/applications/wordpress/cloudways-community1.jpg"" alt="""" class=""wp-image-23""/></a></figure>
+									<!-- /wp:image -->
+
+</ul>",Some Useful Links for You to Get Started,"",publish,open,open,"",welcome-to-cloudways,"","",2023-11-29 00:00:00,2023-11-29 00:00:00,"",0,http://wordpress-1175175-4112292.cloudwaysapps.com/?p=1,0,post,"",1
+5,0,2023-11-29 18:02:44,2023-11-29 18:02:44,"<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->",Hello world!,"",inherit,closed,closed,"",1-revision-v1,"","",2023-11-29 18:02:44,2023-11-29 18:02:44,"",1,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=5,0,revision,"",0
+6,0,2023-11-29 18:02:47,2023-11-29 18:02:47,<!-- wp:page-list /-->,Navigation,"",publish,closed,closed,"",navigation,"","",2023-11-29 18:02:47,2023-11-29 18:02:47,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/index.php/2023/11/29/navigation/,0,wp_navigation,"",0
+7,1,2023-11-29 18:07:39,0000-00-00 00:00:00,"",Auto Draft,"",auto-draft,open,open,"","","","",2023-11-29 18:07:39,0000-00-00 00:00:00,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=7,0,post,"",0
+8,1,2023-11-29 18:08:15,2023-11-29 18:08:15,"{""version"": 2, ""isGlobalStylesUserThemeJSON"": true }",Custom Styles,"",publish,closed,closed,"",wp-global-styles-twentytwentythree,"","",2023-11-29 18:08:15,2023-11-29 18:08:15,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/index.php/2023/11/29/wp-global-styles-twentytwentythree/,0,wp_global_styles,"",0
+9,1,2023-11-29 18:12:12,2023-11-29 18:12:12,"<!-- wp:table -->
+<figure class=""wp-block-table""><table><tbody><tr><td><br>[xyz-ips snippet=""54646""]</td></tr></tbody></table></figure>
+<!-- /wp:table -->",!!,"",publish,closed,closed,"",9-2,"","",2023-11-29 18:21:00,2023-11-29 18:21:00,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?page_id=9,0,page,"",0
+10,1,2023-11-29 18:12:12,2023-11-29 18:12:12,"<?php
+echo '!';
+
+?>","","",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:12:12,2023-11-29 18:12:12,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=10,0,revision,"",0
+11,1,2023-11-29 18:12:34,2023-11-29 18:12:34,"<?php
+echo '!';
+
+?>",!!,"",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:12:34,2023-11-29 18:12:34,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=11,0,revision,"",0
+12,1,2023-11-29 18:12:53,2023-11-29 18:12:53,"<?php
+echo '!';
+
+?>
+!!!",!!,"",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:12:53,2023-11-29 18:12:53,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=12,0,revision,"",0
+13,1,2023-11-29 18:13:46,0000-00-00 00:00:00,"",Snippet Preview,"",draft,closed,closed,"",xyz-ics-preview-page,"","",2023-11-29 18:13:46,0000-00-00 00:00:00,"",0,https://wordpress-1175175-4112292.cloudwaysapps.com/?page_id=13,0,page,"",0
+14,1,2023-11-29 18:15:56,2023-11-29 18:15:56,"<p><?php
+echo '!';
+
+?><br />
+!!!</p>
+
+<!-- wp:code -->
+<pre class=""wp-block-code""><code>&lt;?php
+
+echo '!';
+
+?></code></pre>
+<!-- /wp:code -->",!!,"",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:15:56,2023-11-29 18:15:56,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=14,0,revision,"",0
+15,1,2023-11-29 18:16:42,2023-11-29 18:16:42,"<!-- wp:table -->
+<figure class=""wp-block-table""><table><tbody><tr><td><br>[xyz-ips snippet=""75687""]</td></tr></tbody></table></figure>
+<!-- /wp:table -->",!!,"",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:16:42,2023-11-29 18:16:42,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=15,0,revision,"",0
+16,1,2023-11-29 18:21:00,2023-11-29 18:21:00,"<!-- wp:table -->
+<figure class=""wp-block-table""><table><tbody><tr><td><br>[xyz-ips snippet=""54646""]</td></tr></tbody></table></figure>
+<!-- /wp:table -->",!!,"",inherit,closed,closed,"",9-revision-v1,"","",2023-11-29 18:21:00,2023-11-29 18:21:00,"",9,https://wordpress-1175175-4112292.cloudwaysapps.com/?p=16,0,revision,"",0
